@@ -1,2 +1,2 @@
 # UC-Berkeley-CS188-Projects
-Introduction to Artificial Intelligence Projects
+https://inst.eecs.berkeley.edu/~cs188/fa21/projects/
